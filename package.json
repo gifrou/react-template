@@ -23,7 +23,7 @@
     },
     "devDependencies": {
         "@csstools/postcss-global-data": "4.0.0",
-        "@eslint/js": "^10.0.1",
+        "@eslint/js": "^9.39.2",
         "@github/browserslist-config": "^1.0.0",
         "@types/react": "^19.3.0",
         "@types/react-dom": "^19.3.0",
